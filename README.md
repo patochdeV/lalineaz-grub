@@ -1,5 +1,6 @@
 # lineaz-grub-
-reprise d'un theme existant sur gnome-look mais que je n'arrive pas a installer et qui n'a plus l'air suivi dans le but de le rendre utilisable et instalable facilement
+Reprise d'un theme existant sur gnome-look qui n'a plus l'air suivi dans le but de le rendre utilisable et rendre l'installation facile .
+
 
 
 1 : Cloner le référentiel GitHub lalineaz-grub dans /usr/share/grub/themes/lalineaz-grub.
@@ -23,4 +24,15 @@ reprise d'un theme existant sur gnome-look mais que je n'arrive pas a installer 
         sudo update-grub
 
 lalineaz-grub est maintenant prêt à être utilisé après la prochaine réinitialisation de votre système.
+
+
+
+- en cours de test une installation en script shell :
+
+  ajout du script " lalineaz_installer.sh " au depot 
+
+  1 Rendez le script exécutable : chmod +x lalineaz_installer.sh
+  2 Exécutez le script avec les privilèges d'administrateur (sudo) : sudo ./lalineaz_installer.sh
+
+  
 
