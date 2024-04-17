@@ -31,8 +31,9 @@ lalineaz-grub est maintenant prêt à être utilisé après la prochaine réinit
 
   ajout du script " lalineaz_installer.sh " au depot 
 
-  1 Rendez le script exécutable : chmod +x lalineaz_installer.sh
-  2 Exécutez le script avec les privilèges d'administrateur (sudo) : sudo ./lalineaz_installer.sh
+  1 : Rendez le script exécutable : chmod +x lalineaz_installer.sh
+
+  2 : Exécutez le script avec les privilèges d'administrateur (sudo) : sudo ./lalineaz_installer.sh
 
   
 
