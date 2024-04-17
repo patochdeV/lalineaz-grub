@@ -27,13 +27,19 @@ lalineaz-grub est maintenant prêt à être utilisé après la prochaine réinit
 
 
 
-- en cours de test une installation en script shell :
+- en cours de test une installation en script shell et via installer :
+- 
+(shell)
 
   ajout du script " lalineaz_installer.sh " au depot 
 
   1 : Rendez le script exécutable : chmod +x lalineaz_installer.sh
 
   2 : Exécutez le script avec les privilèges d'administrateur (sudo) : sudo ./lalineaz_installer.sh
+
+  (installer)
+
+  python grub_lalineaz_setup.py
 
   
 
