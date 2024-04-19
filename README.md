@@ -1,7 +1,9 @@
 # lineaz-grub-
 Reprise d'un theme existant sur gnome-look qui n'a plus l'air suivi dans le but de le rendre utilisable et rendre l'installation facile .
 
+0 : Installation paquet Git pour telecharger directement avec des commandes "git clone"
 
+        sudo apt install git-all 
 
 1 : Cloner le référentiel GitHub lalineaz-grub dans /usr/share/grub/themes/lalineaz-grub.
 
