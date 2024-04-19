@@ -15,7 +15,7 @@ Reprise d'un theme existant sur gnome-look qui n'a plus l'air suivi dans le but 
 
 3: Ajoutez ou modifiez la ligne GRUB_THEME avec le nom du dossier cloné .
 
-    GRUB_THEME="/usr/share/grub/themes/lalineaz-grub"
+    GRUB_THEME="/usr/share/grub/themes/lalineaz-grub/linea_grub/theme.txt"
 
 4: Enregistrez et quittez le fichier de configuration.
 
