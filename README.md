@@ -1,5 +1,5 @@
 # lineaz-grub-
-Reprise d'un theme existant sur gnome-look qui n'a plus l'air suivi dans le but de le rendre utilisable et rendre l'installation facile .
+Reprise d'un theme existant sur gnome-look qui n'a plus l'air suivi dans le but de le rendre utilisable et rendre l'installation facile . https://www.gnome-look.org/p/1382357
 
 0 : Installation paquet Git pour telecharger directement avec des commandes "git clone"
 
