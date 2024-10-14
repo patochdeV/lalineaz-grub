@@ -1,6 +1,9 @@
 # lineaz-grub-
 Reprise d'un theme existant sur gnome-look qui n'a plus l'air suivi dans le but de le rendre utilisable et rendre l'installation facile . https://www.gnome-look.org/p/1382357
 
+![linea-intermediary-grub](https://github.com/user-attachments/assets/145a0da9-c0a5-4d76-9058-05e8c310df77)
+
+
 0 : Installation paquet Git pour telecharger directement avec des commandes "git clone"
 
     sudo apt install git-all 
